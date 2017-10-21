@@ -1,1 +1,1 @@
-<?php header( 'blog.html' ) ;  ?>
+<?php header( 'index.html' ) ;  ?>
